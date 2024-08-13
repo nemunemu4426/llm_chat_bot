@@ -3,3 +3,5 @@ python-dotenv
 fastapi
 uvicorn[standard]
 odmantic
+jwt
+python-multipart
